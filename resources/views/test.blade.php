@@ -8,6 +8,9 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Selamat Datang</h1>
+    <div class="container">
+        <h1>Selamat Datang</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas temporibus perspiciatis libero a illum ipsum! Animi nemo esse quae soluta. Deserunt corrupti unde, aut aspernatur id qui suscipit blanditiis debitis.</p>
+    </div>
 </body>
 </html>
