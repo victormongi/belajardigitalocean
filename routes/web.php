@@ -20,6 +20,5 @@ Route::get('test', function () {
 });
 
 Route::get('vicky', function () {
-    return 'hahahahahaha';
+    return view('test');
 });
-
